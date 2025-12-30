@@ -11,6 +11,7 @@ export const data = {
   links: {
     email: "satyamraj1905@gmail.com",
     phone: "+91 8529228967",
+    resume: "https://drive.google.com/file/d/1UPU5OfiAcPeeYdkVrLO_zDKF5dGYLUaC/view?usp=drive_link",
     // URLs weren’t present in the PDF text; add your exact links here anytime:
     linkedin: "https://www.linkedin.com/in/satyam-raj-b59061250/",
     github: "https://github.com/SatyamRaj1905",

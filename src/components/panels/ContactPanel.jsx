@@ -40,6 +40,17 @@ export default function ContactPanel({ data }) {
         <a className="pixel-btn" href={`mailto:${links.email}`}>
           Send Email
         </a>
+        <a
+          className="pixel-btn"
+          href={links.resume || "#"}
+          target={links.resume && links.resume.startsWith("http") ? "_blank" : undefined}
+          rel={links.resume && links.resume.startsWith("http") ? "noreferrer" : undefined}
+          onClick={(e) => {
+            if (!links.resume) e.preventDefault(); 
+          }}
+        >
+          View my Resume
+        </a>
       </div>
     </div>
   );
