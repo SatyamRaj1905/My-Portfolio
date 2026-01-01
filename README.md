@@ -6,9 +6,11 @@ GameBoy-inspired pixel UI portfolio (React + Vite) with:
 - Small display dynamically updates by active tab and selected item
 - Mobile stacked layout (tabs become horizontal scroll)
 
-# See the website live 
+## See the website live 
 
 You can see the live website -> https://satyam-raj-1905.onrender.com/
+
+deployed on Render
 
 ## Run locally
 
