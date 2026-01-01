@@ -8,9 +8,7 @@ GameBoy-inspired pixel UI portfolio (React + Vite) with:
 
 ## See the website live 
 
-You can see the live website -> https://satyam-raj-1905.onrender.com/
-
-deployed on Render
+You can see the live website -> https://satyam-raj-1905.onrender.com/ (Render link) and https://my-portfolio-3uueyobg2-satyamraj1905s-projects.vercel.app/ (Vercel link)
 
 ## Run locally
 
