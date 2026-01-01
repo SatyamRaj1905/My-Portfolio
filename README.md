@@ -10,6 +10,8 @@ GameBoy-inspired pixel UI portfolio (React + Vite) with:
 
 You can see the live website -> https://satyam-raj-1905.onrender.com/ (Render link) and https://my-portfolio-3uueyobg2-satyamraj1905s-projects.vercel.app/ (Vercel link)
 
+Reason -> Render gives the option to use partial custom domain (easily remembered url) but Vercel loads up faster and has better consistency when it comes to deploying only the frontend website
+
 ## Run locally
 
 ```bash
